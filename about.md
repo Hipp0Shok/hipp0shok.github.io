@@ -1,7 +1,3 @@
-layout: page
-title: "About"
-permalink: /about/
-
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
